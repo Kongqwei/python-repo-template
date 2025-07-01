@@ -4,8 +4,8 @@ version = "0.0.1"
 description = "A template for Python projects"
 readme = "README.md"
 license = { text = "MIT" }
-authors = [ { name = "Giovanni Giacometti", email = "giovanni.giacometti5@gmail.com" } ]
-requires-python = ">=3.12"
+authors = [ { name = "Kong Qingwei", email = "kongqwei666@outlook.com" } ]
+requires-python = ">=3.13"
 dependencies = [
     "loguru>=0.7.3",
 ]
